@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/galaxyminer80/CoreUI-iran
+build-by-default: true
+branches:
+- master
+projects:
+  CoreUI-iran:
+    path: ""
+...
